@@ -1,0 +1,8 @@
+{
+  "name": "Fractional Inch Rounder",
+  "description": "Upload a TXT file to automatically detect and round all decimal measurements to the nearest 1/32 inch, while perfectly preserving the original file's spacing, alignment, and formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
